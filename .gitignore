@@ -1,0 +1,13 @@
+/obj/Debug
+/obj/Release
+/Bin/ARM
+/Bin/Debug
+/Bin/Release
+/Bin/x86
+/obj/*.*
+/Bin/*.*
+/packages
+*.suo
+*.sln
+*.user
+*.csproj
